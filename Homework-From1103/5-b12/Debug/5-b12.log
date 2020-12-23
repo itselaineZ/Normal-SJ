@@ -1,0 +1,4 @@
+﻿  5-b12.cpp
+D:\Homework(From 1103)\5-b12\5-b12.cpp(56,182): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Homework(From 1103)\5-b12\5-b12.cpp(56,128): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  5-b12.vcxproj -> D:\Homework(From 1103)\Debug\5-b12.exe

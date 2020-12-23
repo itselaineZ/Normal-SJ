@@ -1,0 +1,4 @@
+﻿  7-b4-1.c
+D:\0306homework\7-b4-1\7-b4-1.c(32,30): warning C4013: “malloc”未定义；假设外部返回 int
+D:\0306homework\7-b4-1\7-b4-1.c(53,7): warning C4013: “free”未定义；假设外部返回 int
+  7-b4-1.vcxproj -> D:\0306homework\Debug\7-b4-1.exe

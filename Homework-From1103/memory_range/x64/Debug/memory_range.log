@@ -1,0 +1,14 @@
+﻿  memory_range.cpp
+D:\Homework(From 1103)\memory_range\memory_range.cpp(16,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+D:\Homework(From 1103)\memory_range\memory_range.cpp(16,9): warning C4313: “printf”: 格式字符串中的“%x”与“int *”类型的参数 1 冲突
+D:\Homework(From 1103)\memory_range\memory_range.cpp(17,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“double *”
+D:\Homework(From 1103)\memory_range\memory_range.cpp(17,9): warning C4313: “printf”: 格式字符串中的“%x”与“double *”类型的参数 1 冲突
+D:\Homework(From 1103)\memory_range\memory_range.cpp(18,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+D:\Homework(From 1103)\memory_range\memory_range.cpp(18,9): warning C4313: “printf”: 格式字符串中的“%x”与“int *”类型的参数 1 冲突
+D:\Homework(From 1103)\memory_range\memory_range.cpp(19,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+D:\Homework(From 1103)\memory_range\memory_range.cpp(19,9): warning C4313: “printf”: 格式字符串中的“%x”与“int *”类型的参数 1 冲突
+D:\Homework(From 1103)\memory_range\memory_range.cpp(20,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+D:\Homework(From 1103)\memory_range\memory_range.cpp(20,9): warning C4313: “printf”: 格式字符串中的“%x”与“int *”类型的参数 1 冲突
+D:\Homework(From 1103)\memory_range\memory_range.cpp(21,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+D:\Homework(From 1103)\memory_range\memory_range.cpp(21,9): warning C4313: “printf”: 格式字符串中的“%x”与“int *”类型的参数 1 冲突
+  memory_range.vcxproj -> D:\Homework(From 1103)\x64\Debug\memory_range.exe

@@ -1,0 +1,3 @@
+﻿  5-b18.cpp
+D:\Homework(From 1103)\5-b18\5-b18.cpp(20,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  5-b18.vcxproj -> D:\Homework(From 1103)\Debug\5-b18.exe

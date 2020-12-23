@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1575448367 source:d:\homework(from 1103)\5-b17\5-b17-main.cpp
+	<iostream>
+	<cstdio>
+	"5-b17.h"
+
+1574950160 d:\homework(from 1103)\5-b17\5-b17.h
+
+1575455909 source:d:\homework(from 1103)\5-b17\5-b17-sub.cpp
+

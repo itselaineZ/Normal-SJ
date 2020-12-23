@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1573358009 source:d:\homework(from 1103)\4-b19\4-b19-main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	"4-b19.h"
+
+1573357966 d:\homework(from 1103)\4-b19\4-b19.h
+
+1573361144 source:d:\homework(from 1103)\4-b19\4-b19-sub1.cpp
+	<iostream>
+
+1573566277 source:d:\homework(from 1103)\4-b19\4-b19-sub2.cpp
+	<iostream>
+	<cmath>
+
+1573566262 source:d:\homework(from 1103)\4-b19\4-b19-sub3.cpp
+	<iostream>
+	<cmath>
+
+1573566221 source:d:\homework(from 1103)\4-b19\4-b19-sub4.cpp
+	<iostream>
+	<cmath>
+

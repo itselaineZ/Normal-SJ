@@ -1,0 +1,12 @@
+﻿  3-b11.cpp
+D:\homework\3-b11\3-b11.cpp(17,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\homework\3-b11\3-b11.cpp(20,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\homework\3-b11\3-b11.cpp(23,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\homework\3-b11\3-b11.cpp(26,9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\homework\3-b11\3-b11.cpp(29,9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\homework\3-b11\3-b11.cpp(32,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\homework\3-b11\3-b11.cpp(35,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\homework\3-b11\3-b11.cpp(38,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\homework\3-b11\3-b11.cpp(41,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\homework\3-b11\3-b11.cpp(44,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  3-b11.vcxproj -> D:\homework\Debug\3-b11.exe
